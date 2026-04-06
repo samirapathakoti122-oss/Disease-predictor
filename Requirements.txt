@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+Requirements
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+=======
+Requirements
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+>>>>>>> 580fa6738a1fb4ab4052acc3453926b83fc1464a
+tensorflow
